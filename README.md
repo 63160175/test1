@@ -1,3 +1,2 @@
 Hello
-Mabel BKK
-Miguel
+Mabel and Miguel in BKK
